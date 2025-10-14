@@ -3,7 +3,7 @@ local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/repos
 
 local Window = redzlib:MakeWindow({
   Title = "Lyra Hub V2",
-  SubTitle = "Criado Por Rick & Dark",
+  SubTitle = "By kayrus",
   SaveFolder = "LyraHub_Brookhaven"
 })
 Window:AddMinimizeButton({
